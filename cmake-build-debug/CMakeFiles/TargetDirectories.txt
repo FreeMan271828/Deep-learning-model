@@ -1,0 +1,3 @@
+E:/code/project/Deep learning model/cmake-build-debug/CMakeFiles/Deep_learning_model.dir
+E:/code/project/Deep learning model/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/code/project/Deep learning model/cmake-build-debug/CMakeFiles/rebuild_cache.dir
